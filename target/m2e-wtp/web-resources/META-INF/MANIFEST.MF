@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Build-Jdk: 1.6.0
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://maven.apache.org
+Implementation-Vendor-Id: com.letsstartcoding
+Built-By: F0118824
+Created-By: Maven Integration for Eclipse
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Title: springbootrestapiexample Maven Webapp
+
